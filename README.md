@@ -13,7 +13,7 @@ Olá, eu sou o Giovanni Dassi
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiovanniDassi)](https://github.com/anuraghazra/github-readme-stats)
+![GiovanniDassi GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniDassi&show_icons=true&theme=radical)
 
 ## Contato :
 <a href="https://instagram.com/_giovannidassi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
