@@ -4,15 +4,19 @@
 ## 🚀 Tecnologias de Estudo 
 <div style="display: inline_block"> 
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" height="50" width="60" src="https://global-uploads.webflow.com/6092ed75cac3156e208ac5e9/64d271f91c013aac3defc24c_Power%20BI.svg"/> 
+<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> 
+<img align="center" height="50" width="60" src="https://global-uploads.webflow.com/6092ed75cac3156e208ac5e9/63fed77715cfef3c84ed10d4_Gooogle%20Colab.svg"/> 
+<img align="center" height="50" width="60" src="https://global-uploads.webflow.com/6092ed75cac3156e208ac5e9/63fed775907057003122a811_Metabase.svg"/> 
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="center" height="50" width="60" src="https://global-uploads.webflow.com/6092ed75cac3156e208ac5e9/63fed779d285e192458b9540_MatplotLIB.svg"/> 
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" height="50" width="60" src="https://global-uploads.webflow.com/6092ed75cac3156e208ac5e9/63fed77540f8ced26c7c32f7_Seaborn.svg"/> 
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />    
-</div>
-                            
----
+</div>                    
+
 
 ![Giovanni Dassi - GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniDassi&show_icons=true&theme=transparent)
 
